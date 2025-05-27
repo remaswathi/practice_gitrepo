@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-20T15:03:43 IST" name="Default suite" finished-at="2025-05-20T15:03:49 IST" duration-ms="6672">
+    <groups>
+    </groups>
+    <test started-at="2025-05-20T15:03:43 IST" name="Default test" finished-at="2025-05-20T15:03:49 IST" duration-ms="6672">
+      <class name="selemaven.WorkingwithActions">
+        <test-method signature="actions()[pri:0, instance:selemaven.WorkingwithActions@7d8704ef]" started-at="2025-05-20T15:03:43 IST" name="actions" finished-at="2025-05-20T15:03:49 IST" duration-ms="6594" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- actions -->
+      </class> <!-- selemaven.WorkingwithActions -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

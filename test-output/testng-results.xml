@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-06-02T12:52:33 IST" name="Default suite" finished-at="2025-06-02T12:52:33 IST" duration-ms="120">
+  <suite started-at="2025-06-17T22:27:34 IST" name="Default suite" finished-at="2025-06-17T22:28:06 IST" duration-ms="32046">
     <groups>
     </groups>
-    <test started-at="2025-06-02T12:52:33 IST" name="Default test" finished-at="2025-06-02T12:52:33 IST" duration-ms="120">
-      <class name="firstOne.Practice_FirstOne">
-        <test-method signature="practiceGit()[pri:0, instance:firstOne.Practice_FirstOne@55b699ef]" started-at="2025-06-02T12:52:33 IST" name="practiceGit" finished-at="2025-06-02T12:52:33 IST" duration-ms="20" status="PASS">
+    <test started-at="2025-06-17T22:27:34 IST" name="Default test" finished-at="2025-06-17T22:28:06 IST" duration-ms="32046">
+      <class name="IRCTC.Irctc_Project">
+        <test-method signature="irctcTest()[pri:0, instance:IRCTC.Irctc_Project@c730b35]" started-at="2025-06-17T22:27:34 IST" name="irctcTest" finished-at="2025-06-17T22:28:06 IST" duration-ms="31981" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- practiceGit -->
-      </class> <!-- firstOne.Practice_FirstOne -->
+        </test-method> <!-- irctcTest -->
+      </class> <!-- IRCTC.Irctc_Project -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
